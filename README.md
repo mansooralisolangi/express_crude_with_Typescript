@@ -35,6 +35,5 @@ express_crud_with_typescript/
 ## 🚀 Installation
 
 1. **Clone the repository:**
-```bash
 git clone https://github.com/mansooralisolangi/express_crud_with_typescript.git
 cd express_crud_with_typescript
